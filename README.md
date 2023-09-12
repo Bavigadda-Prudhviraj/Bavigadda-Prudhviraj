@@ -50,8 +50,8 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <div> <a href="https://github.com/Bavigadda-Prudhviraj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavigadda-Prudhviraj&hide_progress=true&theme=onedark" alt=Bavigadda-Prudhviraj />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bavigadda-Prudhviraj&show_icons=true&locale=en&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>
+ <!---
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bavigadda-Prudhviraj&show_icons=true&locale=en&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>--->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bavigadda-Prudhviraj&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>
 
