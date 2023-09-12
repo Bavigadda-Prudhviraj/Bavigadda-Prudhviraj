@@ -41,4 +41,25 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <!---### 📈 My GitHub Contributions --->
 ![snake gif](https://github.com/Bavigadda-Prudhviraj/Bavigadda-Prudhviraj/blob/output/github-contribution-grid-snake.gif)
 
+<!--- Additional data added --->
+<div> <a href="https://github.com/Bavigadda-Prudhviraj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavigadda-Prudhviraj&layout=compact&theme=" alt=Bavigadda-Prudhviraj />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bavigadda-Prudhviraj&show_icons=true&locale=en&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bavigadda-Prudhviraj&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Bavigadda-Prudhviraj">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bavigadda-Prudhviraj&theme=github-compact"/>
+
 
