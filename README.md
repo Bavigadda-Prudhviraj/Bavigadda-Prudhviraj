@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prudhviraj852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prudhviraj852" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/bavigadda-prudhviraj-822568210/](https://www.linkedin.com/in/bavigadda-prudhviraj-822568210)" target="blank"><img align="center" src="https://raw.githubus![image](https://github.com/Bavigadda-Prudhviraj/Bavigadda-Prudhviraj/assets/94272727/49c8381c-23a5-4140-91dc-159c02105c53)
-ercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bavigadda-prudhviraj-822568210/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bavigadda-prudhviraj-822568210" target="blank"><img align="center" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bavigadda-prudhviraj-822568210/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/dream_catcher_852?igshid=ymm0mje2ywmzoa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/dream_catcher_852?igshid=ymm0mje2ywmzoa==" height="30" width="40" /></a>
 </p>
 
