@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Bavigadda Prudhviraj</h1>
 <h3 align="center">404 Error: Java Backend Developer Not Found (Just Kidding! Here I am!)</h3>
 
@@ -27,12 +28,11 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
+<!--- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavigadda-prudhviraj&show_icons=true&locale=en&layout=compact" alt="bavigadda-prudhviraj" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bavigadda-prudhviraj&show_icons=true&locale=en" alt="bavigadda-prudhviraj" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bavigadda-prudhviraj&" alt="bavigadda-prudhviraj" /></p>
+--->
 <!---  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bavigadda-Prudhviraj&limit=5&theme=flat&combine_all_yearly_contributions=true)
@@ -42,9 +42,14 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 ![snake gif](https://github.com/Bavigadda-Prudhviraj/Bavigadda-Prudhviraj/blob/output/github-contribution-grid-snake.gif)
 
 <!--- Additional data added --->
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bavigadda-Prudhviraj&theme=onedark" alt="Bavigadda-Prudhviraj" /></a> </p>
+
 <div> <a href="https://github.com/Bavigadda-Prudhviraj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavigadda-Prudhviraj&layout=compact&theme=" alt=Bavigadda-Prudhviraj />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavigadda-Prudhviraj&hide_progress=true&theme=onedark" alt=Bavigadda-Prudhviraj />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Bavigadda-Prudhviraj&show_icons=true&locale=en&theme=onedark" alt="Bavigadda-Prudhviraj" /></p>
 
@@ -53,13 +58,13 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Bavigadda-Prudhviraj">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bavigadda-Prudhviraj&theme=zenburn" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bavigadda-Prudhviraj&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bavigadda-Prudhviraj&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bavigadda-Prudhviraj&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bavigadda-Prudhviraj&theme=onedark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bavigadda-Prudhviraj&theme=onedark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bavigadda-Prudhviraj&theme=github-compact"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Bavigadda-Prudhviraj&theme=one-dark"/>
 
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
